@@ -6,11 +6,14 @@ $d = 2;
 
 function rotLeft($a, $d)
 {
-    for ($i = 1; $i <= $d; $i++) {
-        $first = array_shift($a);
-        $a[] = $first;
+    $result = [];
+    for($i = $d; $i < count($a); $i++){
+        $result[] = $a[$i];
     }
-    return $a;
+    for($i = 0; $i < $d; $i++){
+        $result[] = $a[$i];
+    }
+    return $result;
 }
 
 var_dump(rotLeft($a, $d));
