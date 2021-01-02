@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4141c2a3-dab9-4bec-b13a-4d641001f5c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/breaking.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/substring.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordPattern_mapsol.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twoSums.php" beforeDir="false" afterPath="$PROJECT_DIR$/twoSums.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wordPattern.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordPattern.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +60,10 @@
       <updated>1609066523451</updated>
       <workItem from="1609066524562" duration="582000" />
       <workItem from="1609076266993" duration="2441000" />
-      <workItem from="1609256510158" duration="4493000" />
+      <workItem from="1609256510158" duration="5083000" />
+      <workItem from="1609349308817" duration="1400000" />
+      <workItem from="1609351300309" duration="2487000" />
+      <workItem from="1609604166679" duration="2745000" />
     </task>
     <servers />
   </component>
@@ -76,24 +83,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1609257270064">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609351349128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609257270064" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609351349128" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1609605715320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609605715320" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1609066560190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609066560190" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/twoSums.php</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

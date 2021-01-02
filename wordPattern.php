@@ -33,7 +33,7 @@ function checkPattern(string $pattern, string $string)
 
 }
 
-echo checkPattern("bbba", "cat cat cat dog");
+echo checkPattern("aabb", "cat cat cat dog");
 
 
 
