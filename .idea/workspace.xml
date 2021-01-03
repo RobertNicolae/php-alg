@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4141c2a3-dab9-4bec-b13a-4d641001f5c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/breaking.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/substring.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wordPattern_mapsol.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queueatm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twoSums.php" beforeDir="false" afterPath="$PROJECT_DIR$/twoSums.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordPattern.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordPattern.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <workItem from="1609256510158" duration="5083000" />
       <workItem from="1609349308817" duration="1400000" />
       <workItem from="1609351300309" duration="2487000" />
-      <workItem from="1609604166679" duration="2745000" />
+      <workItem from="1609604166679" duration="14386000" />
     </task>
     <servers />
   </component>
@@ -87,10 +84,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609351349128" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1609605715320">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1609608979745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609605715320" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609608979745" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1609066560190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
